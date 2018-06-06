@@ -1,0 +1,46 @@
+.con{
+    width: 50vw;
+    margin: auto;
+    margin-top: 20vh;
+}
+.con div{
+    height:300px ;
+    width: 300px;
+    
+    display: inline-block;
+    
+}
+
+.botton{
+
+    display: block;
+    height: 20px;
+    width: 200px;
+    border-radius: 20px solid ;
+    background: #000;
+    color: #fff; 
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    }
+
+
+.dice-1{
+background: url(images/inverted-dice-1.svg)
+}
+.dice-2{
+background: url(images/inverted-dice-2.svg)  
+}
+.dice-3{
+ background: url(images/inverted-dice-3.svg)
+ }
+ .dice-4{
+ background: url(images/inverted-dice-4.svg)  
+ }
+.dice-5{
+ background: url(images/inverted-dice-5.svg)
+ }
+.dice-6{
+ background: url(images/inverted-dice-6.svg)  
+ }
+
